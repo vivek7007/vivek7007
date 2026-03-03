@@ -3,23 +3,23 @@
 <!--
 **vivek7007/vivek7007** is a ✨ _spe<!-- Futuristic Aurora Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002b1e,50:014d34,100:00ff9d&height=250&section=header&text=Sarthak%20Shinde&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&font=serif" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002b1e,50:014d34,100:00ff9d&height=250&section=header&text=Vivek%20Chavan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&font=serif" alt="header"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Sarthak Shinde</h1>
+<h1 align="center">👋 Hi, I'm Vivek Chavan</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | 🤖 Tech Enthusiast | 🔬 ML Explorer
+  🚀 Web Developer | 🤖 Tech Enthusiast 
 </p>
 
 ---
 
 ## 🌱 Currently Exploring
 - Machine Learning  
-- Automation  
-- Retrieval-Augmented Generation (RAG)  
+- Data Automation  
+    
 
-📫 Reach me at: **sartech2005@gmail.com**
+📫 Reach me at: **vivekchavan8302@gmail.com**
 
 ---
 
@@ -32,12 +32,8 @@
   <a href="https://instagram.com/___.sarthakkk.___" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@sarthakshinde2570" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/sarthak0416" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+  
+  
 </p>
 
 ---
@@ -45,7 +41,7 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres,python,js,html,css,bootstrap,figma,photoshop,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=Javareact,nodejs,,mongodb,mysql,js,html,css,bootstrap,figma,photoshop,cpp" />
 </p>
 
 ---
