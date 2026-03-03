@@ -3,7 +3,7 @@
 <!--
 **vivek7007/vivek7007** is a ✨ _spe<!-- Futuristic Aurora Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002b1e,50:014d34,100:00ff9d&height=250&section=header&text=Vivek%20Chavan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&font=serif" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Vivek%20Chavan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&font=serif" alt="header"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Vivek Chavan</h1>
@@ -26,10 +26,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sarthak-shinde-5906802ab" target="_blank">
+  <a href="https://linkedin.com/in/vivek-chavan-207601370" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/___.sarthakkk.___" target="_blank">
+  <a href="https://instagram.com/vivek_chavan_7" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
@@ -41,19 +41,12 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=Javareact,nodejs,,mongodb,mysql,js,html,css,bootstrap,figma,photoshop,cpp" />
+  <img src="https://skillicons.dev/icons?i=Java,react,nodejs,,mongodb,mysql,js,html,css,bootstrap,figma,photoshop,cpp" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthakk04&theme=github_dark"
-    alt="GitHub Profile Details"
-  />
-</p>
 
 ---
 
@@ -90,27 +83,16 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthakk04&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=vivek7007&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-<p align="center"><i>“The best is yet to be.”</i> — <b>Sarthak</b></p>
+<p align="center"><i>“The best is yet to be.”</i> — <b>Vivek</b></p>
 
 <!-- Aurora Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002b1e,50:014d34,100:00ff9d&height=120&section=footer"/>
 </p>
-cial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
